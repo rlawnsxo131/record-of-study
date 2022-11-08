@@ -15,15 +15,17 @@
   // 	],
   // 	"description": "Log output to console"
   // }
-  "MarkdownPostTemplate": {
+  "MarkdownBookTemplate": {
     "scope": "markdown",
-    "prefix": "mf",
+    "prefix": "book",
     "body": [
       "---",
       "title: ${TM_FILENAME_BASE}",
+      "author:",
       "description:",
       "date: yyyy-mm-dd",
       "---"
-    ]
+    ],
+    "description": "book template"
   }
 }
