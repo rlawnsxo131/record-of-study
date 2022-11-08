@@ -21,7 +21,6 @@
     "body": [
       "---",
       "title: ${TM_FILENAME_BASE}",
-      "author:",
       "description:",
       "date: yyyy-mm-dd",
       "---"
