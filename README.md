@@ -10,7 +10,7 @@
 ## recent situation
 
 ```
-javascript 복습과 frontend 에 집중하기 위한 내용을 위주로 기록중 입니다.
+javascript 복습과 frontend 관련 내용을 위주로 기록중 입니다.
 ```
 
 ## book
