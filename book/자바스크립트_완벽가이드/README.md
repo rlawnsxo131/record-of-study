@@ -13,6 +13,7 @@ Javascript: The Definitive Guide 7/E
 ```
 4장 표현식과 연산자 -> 대부분 생략
 5장 문 -> 대부분 생략
+6장 객체 -> 연관배열인 객체 생략
 ```
 
 ## opinion
